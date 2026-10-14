@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mí
 
-Desarrollador web **PHP & Laravel** con **más de 10 años en tecnología**: soporte técnico, administración de sistemas, docencia y desarrollo de software. He sido **docente de programación** (PHP, bases de datos y C#) y actualmente estudio **Ingeniería de Software y Datos**. Construyo aplicaciones de gestión con Laravel que resuelven procesos reales, y enseño a otros a hacerlo.
+Desarrollador web **PHP & Laravel** con **más de 4 años de experiencia**: soporte técnico, administración de sistemas, docencia y desarrollo de software. He sido **docente de programación** (PHP, bases de datos y C#) y actualmente estudio **Ingeniería de Software y Datos** y me formo en **React** y **Claude** (IA). Construyo aplicaciones de gestión con Laravel que resuelven procesos reales, y enseño a otros a hacerlo.
 
 - 🏗️ Sistemas de gestión con **Laravel + Livewire**: autenticación, roles y permisos, flujos operativos y paneles administrativos.
 - ⚡ Funcionalidades en **tiempo real** con Laravel Echo y Pusher.
@@ -25,7 +25,7 @@ Desarrollador web **PHP & Laravel** con **más de 10 años en tecnología**: sop
 <details>
 <summary>🇬🇧 English</summary>
 
-**PHP & Laravel web developer** with **10+ years in IT** — technical support, systems administration, teaching and software development. Former **programming instructor** (PHP, databases, C#), currently studying **Software and Data Engineering**. I build Laravel management applications that solve real-world processes — auth, role-based access control, real-time features, PDF/Excel reporting — and I teach others how to do it.
+**PHP & Laravel web developer** with **4+ years of experience** — technical support, systems administration, teaching and software development. Former **programming instructor** (PHP, databases, C#), currently studying **Software and Data Engineering** and training in **React** and **Claude** (AI). I build Laravel management applications that solve real-world processes — auth, role-based access control, real-time features, PDF/Excel reporting — and I teach others how to do it.
 
 </details>
 
@@ -47,6 +47,7 @@ Desarrollador web **PHP & Laravel** con **más de 10 años en tecnología**: sop
 - 📜 **Metodología de programación de sistemas informáticos** y **Mantenimiento de equipos de cómputo** — SENA
 - 🏅 **Master en PHP, SQL, POO, MVC, Laravel, Symfony y WordPress**
 - 🏅 **Claude 101** — Claude Academy (Anthropic)
+- 📚 *En curso:* **React** y **cursos de Claude** (Claude Academy)
 
 ---
 
@@ -66,6 +67,7 @@ Desarrollador web **PHP & Laravel** con **más de 10 años en tecnología**: sop
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black)
+![React](https://img.shields.io/badge/React_(aprendiendo)-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Bases de datos**  
@@ -76,6 +78,7 @@ Desarrollador web **PHP & Laravel** con **más de 10 años en tecnología**: sop
 **Herramientas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_(aprendiendo)-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
 
 ---
